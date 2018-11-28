@@ -1,10 +1,8 @@
-# Springboard_Capstone_Project_1 
+# King County House Price Prediction 
 
 Welcome to my repository for King County House Price Prediction!! 
 
-This  is a machine learning project done as the first capstone project for the Springboard Data Science Career Track. 
-
-This repository has the following files:
+This  is a machine learning project done as the first capstone project for the Springboard Data Science Career Track. This repository has the following files:
 
 
 1. Jupyter Notebooks: These contain python codes and detailed descriptions for each part of project.
