@@ -15,5 +15,5 @@ This  is a machine learning project done as the first capstone project for the S
 1. [Presentation slides:](https://github.com/math470/Springboard_Capstone_Project_1/blob/master/Capstone%20Project%201%20Slides.pdf) This is the presentation version of final rerport. 
 1. datasets
     1. [kc_house_data.csv :](https://github.com/math470/Springboard_Capstone_Project_1/blob/master/kc_house_data.csv) This contains the record of 21,613 house sales (from Kaggle).
-    1. [df_zipcode.csv :](https://github.com/math470/Springboard_Capstone_Project_1/blob/master/df_zipcode.csv) This contains grades of 12 categories for each zip code in King County, WA. This was scrapped from Niche.com in the Data Wranling part.
+    1. [df_zipcode.csv :](https://github.com/math470/Springboard_Capstone_Project_1/blob/master/df_zipcode.csv) This contains grades of 12 categories for each zip code in King County, WA. This was scraped from Niche.com in the Data Wranling part.
 1. PNG image files: These are used in Jupyter notebooks.
